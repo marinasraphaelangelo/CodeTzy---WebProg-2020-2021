@@ -1,0 +1,4 @@
+> we have presented our app to our coach and give us an idea to improve our app
+> we have done some minor  fixes in our app while navigating the interface
+> we have also tested it in a physical device to ensure that the resolution will be fit
+
